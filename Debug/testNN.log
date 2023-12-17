@@ -1,0 +1,8 @@
+﻿  net.cpp
+c:\users\william\documents\visual studio 2013\projects\testnn\testnn\net.cpp(419): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+  testNN.vcxproj -> C:\Users\William\documents\visual studio 2013\Projects\testNN\Debug\testNN.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart*.dll" "C:\Users\William\documents\visual studio 2013\Projects\testNN\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart32_65.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart64_65.dll
+          2 file(s) copied.
